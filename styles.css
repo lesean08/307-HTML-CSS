@@ -1,0 +1,44 @@
+body { 
+    display:block
+    background-image="https://unsplash.com/@vivalunastudios?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"Viva Luna Studio href="https://unsplash.com/photos/white-and-black-plastic-bottle-beside-white-heart-shaped-ornament-KiQt6CC0BvY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash"Unsplash;
+    background-image: repeating-conic-gradient(purple 10%, pink 20%); 
+
+}
+ul {
+    color: wheat;
+}
+
+head {
+    color: white;
+    font-size: 2em;
+}
+
+section {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: #dbfffe;
+    ;
+}
+
+section p {
+    color: black;
+}
+
+section>p {
+    border: 1px dotted black;
+}
+    
+    .video-container {
+        width: 50%;
+        max-width: 500px;
+        margin: auto;
+        box-shadow: 0 4px 8px rgba (0, 0, 0,
+            0.2);
+        border-radius: 
+        5px overflowauto;
+
+
+    video {
+        width: 50% height;  
+        display: block;
+    }}
